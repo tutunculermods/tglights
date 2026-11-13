@@ -46,9 +46,5 @@ Choose from eight patterns and set speed per service profile. In **Settings**, y
 
 Every launch checks the official GitHub release feed. A newer version triggers a download prompt. You can also select **Settings → Check for updates**. Downloads are checked against GitHub’s SHA-256 digest before opening the installer. For a portable update, choose **Save portable EXE** in the installer. The Discord invite is under **Settings → Contact**.
 
-## GitHub Releases · Yayıncı için
-
-Bu paketi yayımlamak için **tutunculermods/tglights → Releases → Draft a new release** ekranında **`v1.1.0`** etiketini kullan. **`TG-LIGHTS-1.1.0.zip`** dosyasını sürüm eki olarak yükle ve kararlı sürümü **Latest** olarak yayımla. ZIP’in kökünde kurucu bulunur. İstersen **`TG-LIGHTS-Setup.exe`** dosyasını da ayrıca ekleyebilirsin. Güncelleyici önce kurucuyu, ardından sürüm numarasıyla adlandırılmış ZIP’i arar.
-
 Gelecek sürümlerde uygulamanın ve kurucunun sürüm numarasını birlikte artır. Örneğin **1.1.1** derlemesi için etiketi **`v1.1.1`**, arşiv adını **`TG-LIGHTS-1.1.1.zip`** yap. Güncelleme bildirimi yalnızca kurulu sürümden daha yüksek bir kararlı sürüm için gösterilir. **1.0.x** kullananlar sabit depolu güncelleyiciye geçmek için bu paketi bir kez elle kurabilir.
 
